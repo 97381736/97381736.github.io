@@ -1,4 +1,4 @@
-🇨🇳丨央视频道_123456,#genre#
+🇨🇳丨央视频道,#genre#
 CCTV-7 国防军事,http://39.135.138.60:18890/PLTV/88888910/224/3221225624/index.m3u8
 CCTV6-电影,http://39.134.115.163:8080/PLTV/88888910/224/3221225632/index.m3u8
 CCTV5-体育,http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
@@ -4020,7 +4020,7 @@ DD-解说 新七龙珠动画，武林大会,http://txtest-xp2p.p2p.huya.com/src/
 粉娘+神医必备+红烧狮子头,http://txtest-xp2p.p2p.huya.com/src/1524418104-1524418104-6547325902110326784-3048959664-10057-A-0-1.xs
 黑莓电影,http://39.134.65.208/PLTV/88888888/224/3221225681/index.m3u8
 54.高帧影片,http://epg.112114.xyz/douyu/6763930
-午夜影院,https://pull.kktv8.com/livekktv/99592190.flv
+test-影院,https://pull.kktv8.com/livekktv/99592190.flv
 1.华语经典,http://epg.112114.xyz/douyu/434971
 14.刘德华电影2,http://epg.112114.xyz/douyu/8985415
 虎牙2,http://txtest-xp2p.p2p.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1.xs
@@ -4072,7 +4072,7 @@ DD-解说 新七龙珠动画，武林大会,http://txtest-xp2p.p2p.huya.com/src/
 
 💘丨分类影集,#genre#
 票房电影,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c56_lb_184_600_t10/c56_lb_184_600_t10.m3u8
-惊悚午夜,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c51_lb_115_600_t10/c51_lb_115_600_t10.m3u8
+惊悚test-,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c51_lb_115_600_t10/c51_lb_115_600_t10.m3u8
 权谋剧场,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c55_lb_167_600_t10/c55_lb_167_600_t10.m3u8
 抗战剧场,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c54_lb_163_600_t10/c54_lb_163_600_t10.m3u8
 军事观察,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_239_720P_t10/c57_lb_239_720P_t10.m3u8
@@ -5601,3 +5601,19 @@ MBC,http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 dema,http://ye23.win/iptv/korea2021.php?id=dema
 阿里郎WORLD,http://ye23.win/iptv/korea2021.php?id=arirang_1
 阿里郎WORLD,http://ye23.win/iptv/korea2021.php?id=arirang_2
+
+
+测试频道_312643283,#genre# 
+test-1,http://live.redtraffic.xyz:80/interracial.m3u8
+test-2,http://live.redtraffic.xyz:80/bigtits.m3u8
+test-3,http://live.redtraffic.xyz:80/threesome.m3u8
+test-4,http://live.redtraffic.xyz/latina.m3u8?fluxuslust.m3u8
+test-5,http://live.redtraffic.xyz/fetish.m3u8?fluxuslust.m3u8
+test-6,http://live.redtraffic.xyz/lesbian.m3u8?fluxuslust.m3u8
+test-6,http://cdn.adultiptv.net/lesbian.m3u8
+test-7,http://live.redtraffic.xyz:80/teen.m3u8
+test-8,http://live.redtraffic.xyz:80/pornstar.m3u8
+test-8,http://live.redtraffic.xyz/pornstar.m3u8?fluxuslust.m3u8
+test-9,http://live.redtraffic.xyz:80/milf.m3u8
+test-9,http://live.redtraffic.xyz/milf.m3u8?fluxuslust.m3u8
+test-10,http://live.redtraffic.xyz:80/cuckold.m3u8
