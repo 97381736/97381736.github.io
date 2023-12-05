@@ -442,7 +442,7 @@ module.exports = {
     defaultSearchType: "album",
     cacheControl: "no-cache",
     order: 18,
-    srcUrl: "/bilibili.js",
+    srcUrl: "/music_plugins/bilibili.js",
     primaryKey: ["id", "aid", "bvid", "cid"],
     hints: {
         importMusicSheet: [
