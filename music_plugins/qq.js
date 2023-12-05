@@ -592,7 +592,7 @@ module.exports = {
     platform: "QQ音乐",
     version: "0.1.10",
     order: 20,
-    srcUrl: "/qq.js",
+    srcUrl: "/music_plugins/qq.js",
     cacheControl: "no-cache",
     hints: {
         importMusicSheet: [
