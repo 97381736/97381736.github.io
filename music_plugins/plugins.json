@@ -1,1 +1,1 @@
-{"plugins":[{"name":"bilibili","url":"/bilibili.js","version":"0.1.6"},{"name":"云音乐","url":"/kuwo.js","version":"0.1.17"},{"name":"酷狗","url":"/kugou.js","version":"0.1.3"},{"name":"QQ音乐","url":"/qq.js","version":"0.1.10"}]}
+{"plugins":[{"name":"bilibili","url":"/music_plugins/bilibili.js","version":"0.1.6"},{"name":"云音乐","url":"/music_plugins/kuwo.js","version":"0.1.17"},{"name":"酷狗","url":"/music_plugins/kugou.js","version":"0.1.3"},{"name":"QQ音乐","url":"/music_plugins/qq.js","version":"0.1.10"}]}
