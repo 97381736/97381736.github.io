@@ -9,7 +9,7 @@ function formatMusicItem(_) {
         id: _.hash,
         title: _.songname,
         artist: _.singername ??
-            (_.authors?.map((_) => _?.author_name ?? "")?.join(", ") ||
+            (_.authors?.map((_) => _?.author_name ?? "")?。join(", ") ||
                 _.filename?.split("-")?.[0]?.trim()),
         album: _.album_name ?? _.remark,
         album_id: _.album_id,
@@ -346,7 +346,7 @@ module.exports = {
     version: "0.1.3",
     appVersion: ">0.1.0-alpha.0",
     order: 17,
-    srcUrl: "http://adad23u.appinstall.life/dist/kugou/index.js",
+    srcUrl: "/kugou.js",
     cacheControl: "no-cache",
     primaryKey: ["id", "album_id", "album_audio_id"],
     hints: {
