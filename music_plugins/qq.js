@@ -11,7 +11,7 @@ function formatMusicItem(_) {
         id: _.id || _.songid,
         songmid: _.mid || _.songmid,
         title: _.title || _.songname,
-        artist: _.singer.map((s) => s.name).join(", "),
+        artist: _.singer.map((s) => s.name)。join(", "),
         artwork: albummid
             ? `https://y.gtimg.cn/music/photo_new/T002R300x300M000${albummid}.jpg`
             : undefined,
@@ -592,7 +592,7 @@ module.exports = {
     platform: "QQ音乐",
     version: "0.1.10",
     order: 20,
-    srcUrl: "http://adad23u.appinstall.life/dist/qq/index.js",
+    srcUrl: "/qq.js",
     cacheControl: "no-cache",
     hints: {
         importMusicSheet: [
